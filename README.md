@@ -10,20 +10,18 @@
 5. Update your main README to link back to your Day Journey article
 4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
+## Alexandria's Cloud Journey
 
-## [✍️ Your Name]'s Cloud Journey
+Hello! In 2019, I enrolled in a coding bootcamp and switched my career from Finance into Technology. I'm now working as an Information Security Consultant and will be graduating with my MBA/MS - Information Systems & Information Assurance in May! Throughout my time in school I've been exposed to many different areas of technology and cloud technology has captivated me. 
 
-[✍️ Introduce yourself]
+In the long run, I'd like to move my career to being in cloud. For one of my final courses for this degree, I'm going to be earning my AWS Solutions Architect Associate and my AWS Security... But why stop there!? Since I'll already be focusing on cloud pretty heavily, I decided to really delve in and commit to the #100DaysofCloud challenge. 
 
-[✍️ Tell us why you started this challenge]
+Of course, I plan to obtain the AWS-SAA and AWS Security certifications within this challenge. However, with the commitment of 1 hour+ a day of learning time, I think I may be able to go further. I am leaving the exact plan of what to study after these open, as I'd like to be able to move fluidly depending on my strengths and weaknesses. I'm also hopeful that this will allow me to build the foundation and get the experience to make the aforementioned career pivot. 
 
-[✍️ Tell us where you want to be at the end of the challenge]
+Please feel free to connect with me on Twitter and Linkedin!
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [Twitter](https://twitter.com/CAlexandria7)
+- [LinkedIn](https://www.linkedin.com/in/calexandrial/)
 
 ## Stepping out the door
 
