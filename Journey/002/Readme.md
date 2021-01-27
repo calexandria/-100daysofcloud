@@ -16,4 +16,4 @@ IAM is important to ensure proper access and security. As someone who has a secu
 
 ## Social Proof
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/100daysofcloud?src=hash&amp;ref_src=twsrc%5Etfw">#100daysofcloud</a> <br>Day 2: <br>-Building and hosting a static website in S3<br>-Creating and assigning IAM roles, policies and groups</p>&mdash; Alexandria Leary (@CAlexandria7) <a href="https://twitter.com/CAlexandria7/status/1353903714411532290?ref_src=twsrc%5Etfw">January 26, 2021</a></blockquote> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/100daysofcloud?src=hash&amp;ref_src=twsrc%5Etfw">#100daysofcloud</a> <br>Day 2: <br>-Building and hosting a static website in S3<br>-Creating and assigning IAM roles, policies and groups</p>&mdash; Alexandria Leary (@CAlexandria7) <a href="https://twitter.com/CAlexandria7/status/1353903714411532290?ref_src=twsrc%5Etfw">January 25, 2021</a></blockquote> 
