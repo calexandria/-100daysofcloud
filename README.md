@@ -12,7 +12,7 @@
 
 ## Alexandria's Cloud Journey
 
-Hello! In 2019, I enrolled in a coding bootcamp and switched my career from Finance into Technology. I'm now working as an Information Security Consultant and will be graduating with my MBA/MS - Information Systems & Information Assurance in May! Throughout my time in school I've been exposed to many different areas of technology and cloud technology has captivated me.
+Hello! In 2019, I enrolled in a coding bootcamp and switched my career from Finance to Technology. I'm now working as an Information Security Consultant and will be graduating with my MBA/MS - Information Systems & Information Assurance in May! Throughout my time in school I've been exposed to many different areas of technology and cloud technology has captivated me.
 
 In the long run, I'd like to move my career to being in cloud. For one of my final courses for this degree, I'm going to be earning my AWS Solutions Architect Associate and my AWS Security... But why stop there!? Since I'll already be focusing on cloud pretty heavily, I decided to really delve in and commit to the #100DaysofCloud challenge. 
 
@@ -27,7 +27,7 @@ Please feel free to connect with me on Twitter and Linkedin!
 
 - [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
 - [ ] ☁️ 2 > [First Challenge](Journey/002/Readme.md)
-- [ ] ☁️ 3 > [](Journey/003/Readme.md)
+- [ ] ☁️ 3 > [Adding GCP](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [](Journey/006/Readme.md)
