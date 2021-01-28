@@ -14,6 +14,4 @@ Before I officially started the #100daysofcloud challenge, I started the Google 
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/100daysofcloud?src=hash&amp;ref_src=twsrc%5Etfw">#100daysofcloud</a> <br>Day 3:<br>- GCP VPN and Qwiklabs<br>- AWS EC2 creation<br>- AWS ENI v. ENA v. EFA<br>- AWS EBS</p>&mdash; Alexandria Leary (@CAlexandria7) <a href="https://twitter.com/CAlexandria7/status/1354263701654659072?ref_src=twsrc%5Etfw">January 26, 2021</a>
