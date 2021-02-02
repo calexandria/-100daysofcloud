@@ -29,11 +29,11 @@ Please feel free to connect with me on Twitter and Linkedin!
 - [ ] ☁️ 2 > [First Challenge](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [Adding GCP](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [Solutions Architect Path](Journey/004/Readme.md)
-- [ ] ☁️ 5 > [Labs](Journey/005/Readme.md)
-- [ ] ☁️ 6 > [Databases](Journey/006/Readme.md)
-- [ ] ☁️ 7 > [Aurora/IAM](Journey/007/Readme.md)
-- [ ] ☁️ 8 > [IAM/Route 53](Journey/008/Readme.md)
-- [ ] ☁️ 9 > [](Journey/009/Readme.md)
+- [ ] ☁️ 5 > [AWS Well Architected](Journey/005/Readme.md)
+- [ ] ☁️ 6 > [Labs](Journey/005/Readme.md)
+- [ ] ☁️ 7 > [Databases](Journey/006/Readme.md)
+- [ ] ☁️ 8 > [Aurora/IAM](Journey/007/Readme.md)
+- [ ] ☁️ 9 > [IAM/Route 53](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
 
 ## Walking down the road
