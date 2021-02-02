@@ -32,7 +32,7 @@ Please feel free to connect with me on Twitter and Linkedin!
 - [ ] ☁️ 5 > [Labs](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [Databases](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [Aurora/IAM](Journey/007/Readme.md)
-- [ ] ☁️ 8 > [](Journey/008/Readme.md)
+- [ ] ☁️ 8 > [IAM/Route 53](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
 
