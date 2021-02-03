@@ -34,7 +34,7 @@ Please feel free to connect with me on Twitter and Linkedin!
 - [ ] ☁️ 7 > [Databases](Journey/006/Readme.md)
 - [ ] ☁️ 8 > [Aurora/IAM](Journey/007/Readme.md)
 - [ ] ☁️ 9 > [IAM/Route 53](Journey/009/Readme.md)
-- [ ] ☁️ 10 > [](Journey/010/Readme.md)
+- [ ] ☁️ 10 > [VPC/NACL and Review](Journey/010/Readme.md)
 
 ## Walking down the road
 
