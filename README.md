@@ -40,7 +40,7 @@ Please feel free to connect with me on Twitter and Linkedin!
 
 - [ ] ☁️ 11 > [Load Balancers and Fault-Tolerant Building](Journey/011/Readme.md)
 - [ ] ☁️ 12 > [Getting Started with CloudFormation](Journey/012/Readme.md)
-- [ ] ☁️ 13 > [](Journey/013/Readme.md)
+- [ ] ☁️ 13 > [Serverless!](Journey/013/Readme.md)
 - [ ] ☁️ 14 > [](Journey/014/Readme.md)
 - [ ] ☁️ 15 > [](Journey/015/Readme.md)
 - [ ] ☁️ 16 > [](Journey/016/Readme.md)
