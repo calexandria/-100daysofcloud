@@ -1,11 +1,11 @@
 **Add a cover photo like:**
 ![placeholder image](https://via.placeholder.com/1200x600)
 
-# New post title here
+# DevOps Intro!
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+I found a Cloud Native DevOps Bootcamp that is offered by CloudSkills.io and thought that it would be a great addition to my repitoire. As I've just scheduled my exam for next week, I'm thinking that I'll be moving to the AWS Engineering Associate Cert next. 
 
 ## Prerequisite
 
