@@ -44,8 +44,8 @@ Please feel free to connect with me on Twitter and Linkedin!
 - [ ] ☁️ 14 > [Security in AWS](Journey/014/Readme.md)
 - [ ] ☁️ 15 > [Practice Exam Questions](Journey/015/Readme.md)
 - [ ] ☁️ 16 > [Exam Readiness: AWS Certified Solutions Architect](Journey/016/Readme.md)
-- [ ] ☁️ 17 > [](Journey/017/Readme.md)
-- [ ] ☁️ 18 > [](Journey/018/Readme.md)
+- [ ] ☁️ 17 > [Exam Readiness: AWS Certified Solutions Architect Pt. 2](Journey/017/Readme.md)
+- [ ] ☁️ 18 > [CI/CD Intro](Journey/018/Readme.md)
 - [ ] ☁️ 19 > [](Journey/019/Readme.md)
 - [ ] ☁️ 20 > [](Journey/020/Readme.md)
 
