@@ -47,7 +47,7 @@ Please feel free to connect with me on Twitter and Linkedin!
 - [ ] ☁️ 17 > [Exam Readiness: AWS Certified Solutions Architect Pt. 2](Journey/017/Readme.md)
 - [ ] ☁️ 18 > [CI/CD Intro](Journey/018/Readme.md)
 - [ ] ☁️ 19 > [Tutorials Dojo Study Guide](Journey/019/Readme.md)
-- [ ] ☁️ 20 > [](Journey/020/Readme.md)
+- [ ] ☁️ 20 > [S3 Masterclass](Journey/020/Readme.md)
 
 ## Crossing the bridge
 
