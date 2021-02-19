@@ -52,8 +52,8 @@ Please feel free to connect with me on Twitter and Linkedin!
 ## Crossing the bridge
 
 - [ ] ☁️ 21 > [S3 Masterclass Continued](Journey/021/Readme.md)
-- [ ] ☁️ 22 > [](Journey/022/Readme.md)
-- [ ] ☁️ 23 > [](Journey/023/Readme.md)
+- [ ] ☁️ 22 > [Resume Challenge](Journey/022/Readme.md)
+- [ ] ☁️ 23 > [Resume Challenge pt 2](Journey/023/Readme.md)
 - [ ] ☁️ 24 > [](Journey/024/Readme.md)
 - [ ] ☁️ 25 > [](Journey/025/Readme.md)
 - [ ] ☁️ 26 > [](Journey/026/Readme.md)
