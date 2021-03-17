@@ -60,7 +60,7 @@ Please feel free to connect with me on Twitter and Linkedin!
 - [ ] ☁️ 27 > [Whitepapers](Journey/027/Readme.md)
 - [ ] ☁️ 28 > [](Journey/028/Readme.md)
 - [ ] ☁️ 29 > [](Journey/029/Readme.md)
-- [ ] ☁️ 30 > [](Journey/030/Readme.md)
+- [ ] ☁️ 30 > [Cantrill](Journey/030/Readme.md)
 
 ## Into the bushy, thorny forest
 
@@ -90,7 +90,7 @@ Please feel free to connect with me on Twitter and Linkedin!
 
 ## Winding through the canyons
 
-- [ ] ☁️ 51 > [](Journey/051/Readme.md)
+- [ ] ☁️ 51 > [Exam Day!](Journey/051/Readme.md)
 - [ ] ☁️ 52 > [](Journey/052/Readme.md)
 - [ ] ☁️ 53 > [](Journey/053/Readme.md)
 - [ ] ☁️ 54 > [](Journey/054/Readme.md)
