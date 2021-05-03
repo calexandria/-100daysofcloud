@@ -147,7 +147,7 @@ Please feel free to connect with me on Twitter and Linkedin!
 - [ ] ☁️ 93 > [](Journey/093/Readme.md)
 - [ ] ☁️ 94 > [](Journey/094/Readme.md)
 - [ ] ☁️ 95 > [Exam Day #2!](Journey/095/Readme.md)
-- [ ] ☁️ 96 > [](Journey/096/Readme.md)
+- [ ] ☁️ 96 > [Cloudskills DevOps Bootcamp](Journey/096/Readme.md)
 - [ ] ☁️ 97 > [](Journey/097/Readme.md)
 - [ ] ☁️ 98 > [](Journey/098/Readme.md)
 - [ ] ☁️ 99 > [](Journey/099/Readme.md)
